@@ -67,3 +67,4 @@ For more complete information on the changes in the Bndtools release, see <https
     biz.aQute.launcher;version="[6.4.0,7)", \
     biz.aQute.tester.junit-platform;version="[6.4.0,7)"
 ```
+
